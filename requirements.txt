@@ -1,0 +1,8 @@
+fastmcp==2.11.3
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-core==0.3.74
+langchain-mcp-adapters==0.1.9
+langchain-ollama==0.3.7
+langgraph==0.6.6
+mcp==1.13.1
